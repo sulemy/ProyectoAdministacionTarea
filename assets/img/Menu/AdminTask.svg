@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="34px" viewBox="0 0 46 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-510.000000, -241.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(510.019512, 241.000000)">
+                <path d="M42.0195,3.198 L42.0195,30.801 L2.9805,30.801 L2.9805,3.198 L42.0195,3.198 Z M42.0195,0.218 L2.9805,0.218 C1.3345,0.218 0,1.552 0,3.198 L0,30.801 C0,32.4475 1.3345,33.782 2.9805,33.782 L42.0195,33.782 C43.666,33.782 45,32.4475 45,30.801 L45,3.198 C45,1.552 43.666,0.218 42.0195,0.218 Z" id="Shape"></path>
+                <rect id="Rectangle-path" x="17.0925" y="5.17" width="10.8145" height="23.6595"></rect>
+                <rect id="Rectangle-path" x="4.9525" y="5.17" width="11.0225" height="23.6595"></rect>
+                <rect id="Rectangle-path" x="29.0255" y="5.17" width="11.0225" height="23.6595"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
